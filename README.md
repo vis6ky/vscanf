@@ -3,6 +3,8 @@
 vscanf is a function created to help javascript developer to format the string dynamically likewise we do in c & php with printf & scanf.
 <br />
 written in typescript.
+<br />
+Available in npm: https://www.npmjs.com/package/@vis6ky/vscanf
 
 ## Installation
 
